@@ -1,2 +1,6 @@
 CreateAssetBundle_unity3d/Library/
 CreateAssetBundle_unity3d/Temp/
+CreateAssetBundle_unity3d/.vs/
+CreateAssetBundle_unity3d/obj/Debug/
+CreateAssetBundle_unity3d/CreateAssetBundle_unity3d.sln
+CreateAssetBundle_unity3d/Assembly-CSharp.csproj
